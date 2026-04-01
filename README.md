@@ -127,8 +127,23 @@ CityRide-Analytics/
 
 ## 📸 Dashboard Preview
 
-<img width="308" height="349" alt="image" src="https://github.com/user-attachments/assets/abc4a017-65de-47fd-b889-35f2800565f5" />
+### HOME PAGE
+<img width="1532" height="884" alt="image" src="https://github.com/user-attachments/assets/68990349-4c5b-433c-ac75-79093ff34358" />
 
+### TRIP METRICS
+<img width="1538" height="893" alt="image" src="https://github.com/user-attachments/assets/54805566-2ba4-4a37-adc8-34f6e7b44a15" />
+
+### REVENUE INSIGHTS
+<img width="1534" height="893" alt="image" src="https://github.com/user-attachments/assets/722455cf-88db-44a1-ba1f-371dfe24e861" />
+
+### PASSENGERS ANALYSIS
+<img width="1529" height="881" alt="image" src="https://github.com/user-attachments/assets/54cfff52-d959-46d6-8e97-269de6283b68" />
+
+### PERFORMANCE & CORRELATION ANALYSIS
+<img width="1530" height="880" alt="image" src="https://github.com/user-attachments/assets/9e911f7c-6b5f-462c-9e09-f1750efd159c" />
+
+### SUMMARY
+<img width="1531" height="887" alt="image" src="https://github.com/user-attachments/assets/74235e0b-9ea9-4f2d-892c-f6a6c422cc09" />
 
 ---
 
