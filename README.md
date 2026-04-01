@@ -24,7 +24,6 @@ The project focuses on enabling **data-driven decision making** by identifying d
 - [🚀 How to Use](#-how-to-use)
 - [📸 Dashboard Preview](#-dashboard-preview)
 - [🎯 Future Improvements](#-future-improvements)
-- [👨‍💻 Author](#-author)
 - [⭐ Conclusion](#-conclusion)
 
 ---
@@ -128,7 +127,8 @@ CityRide-Analytics/
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here for better impact)*
+<img width="308" height="349" alt="image" src="https://github.com/user-attachments/assets/abc4a017-65de-47fd-b889-35f2800565f5" />
+
 
 ---
 
@@ -138,15 +138,6 @@ CityRide-Analytics/
 * Add predictive models for demand forecasting
 * Implement ride price prediction using ML
 * Deploy dashboard using Power BI Service
-
----
-
-## 👨‍💻 Author
-
-**Aathiganapathi K**
-
-* LinkedIn: (Add link)
-* GitHub: (Add link)
 
 ---
 
